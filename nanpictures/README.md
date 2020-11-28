@@ -1,4 +1,4 @@
-# alurapic
+# nanpictures
 
 > A Vue.js project
 
