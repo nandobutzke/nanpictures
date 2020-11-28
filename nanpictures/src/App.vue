@@ -17,17 +17,11 @@ export default {
     return {
 
       title: 'Alurapic', 
-      photos: [
-        {
-          url: 'http://tudosobrecachorros.com.br/wp-content/uploads/cachorro-independente.jpg',
-          titulo: 'cachorro'
-        },
-        {
-          url: 'http://tudosobrecachorros.com.br/wp-content/uploads/cachorro-independente.jpg',
-          titulo: 'Cachorrão'
-        }
-      ]
+      photos: []
     }
+  },
+  created() {
+    alert('Um componente foi criado')
   }
 }
 
